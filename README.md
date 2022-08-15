@@ -30,7 +30,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I'am an aspiring Software Engineer currently polishing my Problem Solving and Development Skills.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Web3 Technologies and Machine Learning.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
