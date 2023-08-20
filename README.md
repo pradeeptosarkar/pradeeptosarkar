@@ -48,9 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" **alt="ExpressJS" width="40" height="40"/>
-  
-  <!-- ![postman](https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/c5b61b8e-5cd6-4b6b-958e-596bbb56f568) -->
-  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/c5b61b8e-5cd6-4b6b-958e-596bbb56f568" title="Postman" **alt="Postman" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/df5hitkbj/image/upload/v1692510083/postman_mtlyjj.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
