@@ -30,11 +30,11 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I'am an aspiring Software Engineer currently polishing my Problem Solving and Development Skills.
 
-- :seedling: Exploring Web3 Technologies and Machine Learning.
-
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pradeeptosarkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeptosarkar/)
+- 📖 Apart from tech, I am a keen explorer of economics, history and cartography.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pradeeptosarkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeptosarkar/)
 
 ---
 
@@ -74,7 +74,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeeptosarkar&date_format=M%20j%5B%2C%20Y%5D" title="GitHub Streak" alt="GitHub Streak" width="600"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeptosarkar&langs_count=10&layout=compact&theme=vision-friendly-dark" title="Top Used Langs" alt="Top Used Langs" width="600"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeptosarkar&langs_count=10&layout=compact&theme=vision-friendly-dark" title="Top Used Langs" alt="Top Used Langs" width="600"/> -->
   
 </p>
 
