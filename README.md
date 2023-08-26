@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradeeptosarkar&color=red" alt="Profile Counter"/>
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pradeeptosarkar/">
@@ -16,6 +14,10 @@
   <a href="https://www.codechef.com/users/pradeepto">
     <img src="https://img.shields.io/badge/CodeChef-red?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pradeeptosarkar&color=red" alt="Profile Counter"/>
 </div>
 
 <h1 align="center">
