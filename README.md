@@ -23,7 +23,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="700px"/>
+  ![Untitled design](https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/56754abb-c39e-4d04-969e-dcfdf39ed2c7)
 </div>
 
 ---
