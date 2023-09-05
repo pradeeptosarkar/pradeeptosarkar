@@ -23,7 +23,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="700px"/>
 </div>
 
 ---
