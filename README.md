@@ -1,6 +1,7 @@
 <p align ="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage"/>
 </p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pradeeptosarkar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +10,10 @@
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <a href="https://www.codechef.com/users/pradeepto">
-    <img src="https://img.shields.io/badge/CodeChef-red?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+    <img src="https://img.shields.io/badge/CodeChef-purple?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+  <a href="emailto:pradeeptosarkarmail@gmail.com">
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
