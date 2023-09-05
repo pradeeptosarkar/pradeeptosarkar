@@ -12,7 +12,7 @@
   <a href="https://www.codechef.com/users/pradeepto">
     <img src="https://img.shields.io/badge/CodeChef-purple?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
   </a>
-  <a href="emailto:pradeeptosarkarmail@gmail.com">
+  <a href="mailto:pradeeptosarkarmail@gmail.com">
     <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📖 Apart from tech, I am a keen explorer of economics, history, railways and cartography.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pradeeptosarkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeptosarkar/) [![Email Badge](https://img.shields.io/badge/pradeeptosarkarmail@gmail.com-red?style=flat&logo=gmail&logoColor=white)](emailto:pradeeptosarkarmail@gmail.com) 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pradeeptosarkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeptosarkar/) [![Email Badge](https://img.shields.io/badge/pradeeptosarkarmail@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:pradeeptosarkarmail@gmail.com) 
 
 ---
 <div align="center">
