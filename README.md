@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 <div align="center">
-  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/879becd9-efef-4bfa-ac16-a04738b2b646.gif" width="700px"/>
+  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/77ad44fd-8c5e-46dd-bdb2-b3f35b016d70.gif" width="700px"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
