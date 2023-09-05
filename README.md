@@ -1,7 +1,4 @@
-<p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage)
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pradeeptosarkar/">
