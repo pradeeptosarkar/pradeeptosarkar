@@ -22,10 +22,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/56754abb-c39e-4d04-969e-dcfdf39ed2c7.gif" width="500px"/>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
@@ -40,6 +36,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pradeeptosarkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeptosarkar/)
 
 ---
+<div align="center">
+  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/56754abb-c39e-4d04-969e-dcfdf39ed2c7.gif" width="500px"/>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
