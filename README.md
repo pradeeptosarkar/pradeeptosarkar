@@ -90,6 +90,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <!-- <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeptosarkar&langs_count=10&layout=compact&theme=vision-friendly-dark" title="Top Used Langs" alt="Top Used Langs" width="600"/> -->
 
 ![Pradeepto's GitHub | Stats](https://stats.quine.sh/pradeeptosarkar/github?theme=dark)
+![pradeeptosarkar's GitHub | Dependencies](https://stats.quine.sh/pradeeptosarkar/dependencies?theme=dark)
 ![Pradeepto's GitHub | Topics](https://stats.quine.sh/pradeeptosarkar/topics-over-time?theme=dark)
 ![Pradeepto's GitHub | Languages Over Time](https://stats.quine.sh/pradeeptosarkar/languages-over-time?theme=dark)
 </p>
