@@ -23,7 +23,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/56754abb-c39e-4d04-969e-dcfdf39ed2c7"/>
+  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/56754abb-c39e-4d04-969e-dcfdf39ed2c7.gif" width="500px"/>
 </div>
 
 ---
