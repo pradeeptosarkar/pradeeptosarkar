@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📖 Apart from tech, I am a keen explorer of economics, history, railways and cartography.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pradeeptosarkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeptosarkar/) [![Email Badge](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white)](emailto:pradeeptosarkarmail@gmail.com) 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pradeeptosarkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeptosarkar/) [![Email Badge](https://img.shields.io/badge/pradeeptosarkarmail@gmail.com-red?style=flat&logo=gmail&logoColor=white)](emailto:pradeeptosarkarmail@gmail.com) 
 
 ---
 <div align="center">
