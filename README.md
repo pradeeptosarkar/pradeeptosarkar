@@ -89,7 +89,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pradeeptosarkar&theme=merko&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" title="GitHub Streak" alt="GitHub Streak" width="700"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeeptosarkar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" width="700"/><br>
+  <img src=
+    "https://github-readme-stats.vercel.app/api?username=pradeeptosarkar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" width="700"/><br>
   <!-- <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeptosarkar&langs_count=10&layout=compact&theme=vision-friendly-dark" title="Top Used Langs" alt="Top Used Langs" width="600"/> -->
 
 <img src="https://stats.quine.sh/pradeeptosarkar/github?theme=dark" width="350">
