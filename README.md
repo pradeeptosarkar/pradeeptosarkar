@@ -1,5 +1,6 @@
 <p align ="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pradeeptosarkar&theme=nord"/>
 </p>
 
 <div id="badges" align="center">
