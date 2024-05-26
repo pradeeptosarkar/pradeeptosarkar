@@ -32,7 +32,7 @@
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I'am a Software Engineer constantly learning and polishing my Problem Solving and Development Skills.
+- :telescope: I'm a Software Engineer constantly learning and polishing my Problem Solving and Development Skills.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
