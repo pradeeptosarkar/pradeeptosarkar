@@ -1,4 +1,3 @@
-  # Run 
   ```bash
   npx pradeeptosarkar-npm
   ```
