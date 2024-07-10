@@ -1,6 +1,6 @@
-  ```bash
-  npx pradeeptosarkar-npm
-  ```
+## Run ```npx pradeeptosarkar-npm``` in your terminal
+---
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="1000px"/><br>
 <img src="https://github-profile-trophy.vercel.app/?username=pradeeptosarkar&theme=nord&column=-1" height="100"/>
 </p>
