@@ -129,8 +129,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - **Description**: From basics to advanced deployments with real-world examples
  
 - [GitHub API Demystified: A Developer's Handbook](https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook)
-  - ![image](https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b0ea9195-2bbe-47a5-a6f1-1462f6923b5f)
-
+  - <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b0ea9195-2bbe-47a5-a6f1-1462f6923b5f" height="100px" />
   - **Description**: Automation, Integration, and Efficiency
   
 - [Looking Back: 1 year of NSCC BPIT](https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit)
