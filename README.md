@@ -1,5 +1,5 @@
 <p align ="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="700px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="400px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=pradeeptosarkar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" width="400"/><br>
 <img src="https://github-profile-trophy.vercel.app/?username=pradeeptosarkar&theme=nord&column=-1" height="100"/>
 </p>
