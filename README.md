@@ -136,40 +136,40 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### My Blog posts
 
 <table>
-    <tr>
-        <td style="width: 300px; vertical-align: top;">
-            <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719124434477/790da33c-dbd0-4f0b-a9a2-88424b1387d2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="100px" style="margin-right: 20px;" />
+    <tr style="height:150px">
+        <td style="width:250px; vertical-align: center;">
+            <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719124434477/790da33c-dbd0-4f0b-a9a2-88424b1387d2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
-            <h3><a href="https://blog.namespacecomm.in/building-a-custom-compiler-or-transpiler-with-nodejs">Building a Custom Compiler or Transpiler with Node.js</a></h3>
-            <p><strong>Description:</strong> Breaking Boundaries with Node.js: Crafting a Custom Compiler with Advanced Optimization Techniques and Expanded Functionality</p>
+            <h2><a href="https://blog.namespacecomm.in/building-a-custom-compiler-or-transpiler-with-nodejs">Building a Custom Compiler or Transpiler with Node.js</a></h2>
+            <p><strong> Breaking Boundaries with Node.js: Crafting a Custom Compiler with Advanced Optimization Techniques and Expanded Functionality</strong></p>
         </td>
     </tr>
-    <tr>
-        <td style="width: 300px; vertical-align: top;">
-            <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716101251452/1f430c58-34c4-4a1f-9695-b4017957d75b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="100px" style="margin-right: 20px;" />
+    <tr style="height:150px">
+        <td style="width:250px; height=250px; vertical-align: center;">
+            <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716101251452/1f430c58-34c4-4a1f-9695-b4017957d75b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
-            <h3><a href="https://blog.namespacecomm.in/automating-your-workflow-with-github-actions">Automating your workflow with GitHub Actions</a></h3>
-            <p><strong>Description:</strong> From basics to advanced deployments with real-world examples</p>
+            <h2><a href="https://blog.namespacecomm.in/automating-your-workflow-with-github-actions">Automating your workflow with GitHub Actions</a></h2>
+            <p><strong> From basics to advanced deployments with real-world examples</strong></p>
         </td>
     </tr>
-    <tr>
-        <td style="width: 300px; vertical-align: top;">
-            <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b0ea9195-2bbe-47a5-a6f1-1462f6923b5f" height="100px" style="margin-right: 20px;" />
+    <tr style="height:150px">
+        <td style="width:250px; height=250px; vertical-align: center;">
+            <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b0ea9195-2bbe-47a5-a6f1-1462f6923b5f" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
-            <h3><a href="https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook">GitHub API Demystified: A Developer's Handbook</a></h3>
-            <p><strong>Description:</strong> Automation, Integration, and Efficiency</p>
+            <h2><a href="https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook">GitHub API Demystified: A Developer's Handbook</a></h2>
+            <p><strong> Automation, Integration, and Efficiency</strong></p>
         </td>
     </tr>
-    <tr>
-        <td style="width: 300px; vertical-align: top;">
-            <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" height="100px" width="300px" style="margin-right: 20px;" />
+    <tr style="height:150px">
+        <td style="width:250px; height=250px; vertical-align: center;">
+            <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
-            <h3><a href="https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit">Looking Back: 1 year of NSCC BPIT</a></h3>
-            <p><strong>Description:</strong> A journey of passion and learning</p>
+            <h2><a href="https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit">Looking Back: 1 year of NSCC BPIT</a></h2>
+            <p><strong> A journey of passion and learning</strong></p>
         </td>
     </tr>
 </table>
