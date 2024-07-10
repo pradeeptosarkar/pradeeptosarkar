@@ -123,8 +123,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Building a Custom Compiler or Transpiler with Node.js](https://blog.namespacecomm.in/building-a-custom-compiler-or-transpiler-with-nodejs)
   - <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719124434477/790da33c-dbd0-4f0b-a9a2-88424b1387d2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="100px" />
   - **Description**: Breaking Boundaries with Node.js: Crafting a Custom Compiler with Advanced Optimization Techniques and Expanded Functionality
+    
 - [Automating your workflow with GitHub Actions](https://blog.namespacecomm.in/automating-your-workflow-with-github-actions)
+  - <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716101251452/1f430c58-34c4-4a1f-9695-b4017957d75b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="100px" />
+  - **Description**: From basics to advanced deployments with real-world examples
+ 
 - [GitHub API Demystified: A Developer's Handbook](https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook)
+  - <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695365018906/70b5aefe-1177-4c19-bba7-5e85dca78808.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height=100px" />
+  - **Description**: Automation, Integration, and Efficiency
+  
 - [Looking Back: 1 year of NSCC BPIT](https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit)
   - <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694682392210/72f3dcbd-a198-40cc-a181-e43d77ab5c00.png" height="100px" />
   - **Description**: A journey of passion and learning 
