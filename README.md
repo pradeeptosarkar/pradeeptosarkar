@@ -121,6 +121,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Custom Compiler or Transpiler with Node.js](https://blog.namespacecomm.in/building-a-custom-compiler-or-transpiler-with-nodejs)
+  - <img src="![image](https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/da7ceb58-b1cb-48ec-a46b-417255866cc0)" height="100px" />
+  - **Description**: Breaking Boundaries with Node.js: Crafting a Custom Compiler with Advanced Optimization Techniques and Expanded Functionality
 - [Automating your workflow with GitHub Actions](https://blog.namespacecomm.in/automating-your-workflow-with-github-actions)
 - [GitHub API Demystified: A Developer's Handbook](https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook)
 - [Looking Back: 1 year of NSCC BPIT](https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit)
