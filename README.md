@@ -124,5 +124,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Automating your workflow with GitHub Actions](https://blog.namespacecomm.in/automating-your-workflow-with-github-actions)
 - [GitHub API Demystified: A Developer's Handbook](https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook)
 - [Looking Back: 1 year of NSCC BPIT](https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit)
+  - <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694682392210/72f3dcbd-a198-40cc-a181-e43d77ab5c00.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp>
+  - **Description**: A journey of passion and learning 
 <!-- BLOG-POST-LIST:END -->
 
