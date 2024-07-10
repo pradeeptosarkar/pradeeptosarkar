@@ -133,7 +133,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - **Description**: Automation, Integration, and Efficiency
   
 - [Looking Back: 1 year of NSCC BPIT](https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit)
-  - <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694682392210/72f3dcbd-a198-40cc-a181-e43d77ab5c00.png" height="100px" />
+  - <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" height="100px" />
   - **Description**: A journey of passion and learning 
 <!-- BLOG-POST-LIST:END -->
-
