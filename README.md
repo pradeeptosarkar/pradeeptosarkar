@@ -1,5 +1,8 @@
 <div align="center">
-  # Run '''bashnpx pradeeptosarkar-npm'''
+  # Run 
+  ```bash
+  npx pradeeptosarkar-npm
+  ```
 </div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="1000px"/><br>
