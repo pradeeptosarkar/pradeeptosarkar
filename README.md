@@ -116,5 +116,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://stats.quine.sh/pradeeptosarkar/languages-over-time?theme=dark" width="350"><br>
 </p>
 
+---
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
