@@ -118,12 +118,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### Blog posts
+### My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Custom Compiler or Transpiler with Node.js](https://blog.namespacecomm.in/building-a-custom-compiler-or-transpiler-with-nodejs)
 - [Automating your workflow with GitHub Actions](https://blog.namespacecomm.in/automating-your-workflow-with-github-actions)
-- [Thank YOU! Bobble Fan Store for Elevating HACKHAZARDS to New Heights!](https://blog.namespacecomm.in/thank-you-bobble-fan-store-for-elevating-hackhazards-to-new-heights)
-- [SQL: A Practical Guide for Beginners](https://blog.namespacecomm.in/sql-a-practical-guide-for-beginners)
-- [Flutter: Bridging the Gap Between iOS and Android](https://blog.namespacecomm.in/flutter-bridging-the-gap-between-ios-and-android)
+- [GitHub API Demystified: A Developer's Handbook](https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook)
+- [Looking Back: 1 year of NSCC BPIT](https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit)
 <!-- BLOG-POST-LIST:END -->
 
