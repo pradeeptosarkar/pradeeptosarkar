@@ -159,10 +159,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </div>
 
   <div style="display: flex; flex-direction: row; align-items: flex-start; margin-top: 10px;">
-    <div>
-      <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" height="100px" style="margin-right: 20px; flex-shrink: 0;" />
-    </div>
-    
+      <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" height="100px" style="margin-right: 20px; flex-shrink: 0;" />    
     <div>
       <h3><a href="https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit">Looking Back: 1 year of NSCC BPIT</a></h3>
       <p><strong>Description:</strong> A journey of passion and learning</p>
