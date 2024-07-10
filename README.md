@@ -1,6 +1,5 @@
 <p align ="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="1000px"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=pradeeptosarkar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" height="300" width="400"/><br>
 <img src="https://github-profile-trophy.vercel.app/?username=pradeeptosarkar&theme=nord&column=-1" height="100"/>
 </p>
 
@@ -110,9 +109,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <p align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=pradeeptosarkar&theme=merko&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" title="GitHub Streak" alt="GitHub Streak" width="700"/><br> -->
-  <!-- <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeptosarkar&langs_count=10&layout=compact&theme=vision-friendly-dark" title="Top Used Langs" alt="Top Used Langs" width="600"/> -->
-
+<img src="https://github-readme-stats.vercel.app/api?username=pradeeptosarkar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" height="300" width="400"/><br>
 <img src="https://stats.quine.sh/pradeeptosarkar/github?theme=dark" width="350">
 <img src="https://stats.quine.sh/pradeeptosarkar/dependencies?theme=dark" width="350"><br>
 <img src="https://stats.quine.sh/pradeeptosarkar/topics-over-time?theme=dark" width="350">
