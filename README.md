@@ -150,7 +150,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </td>
         <td>
             <h3><a href="https://blog.namespacecomm.in/building-a-custom-compiler-or-transpiler-with-nodejs">Building a Custom Compiler or Transpiler with Node.js</a></h3>
-            <p><strong> Breaking Boundaries with Node.js: Crafting a Custom Compiler with Advanced Optimization Techniques and Expanded Functionality</strong></p>
+            <h4><strong> Breaking Boundaries with Node.js: Crafting a Custom Compiler with Advanced Optimization Techniques and Expanded Functionality</strong></h4>
         </td>
     </tr>
     <tr>
@@ -159,7 +159,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </td>
         <td>
             <h3><a href="https://blog.namespacecomm.in/automating-your-workflow-with-github-actions">Automating your workflow with GitHub Actions</a></h3>
-            <p><strong> From basics to advanced deployments with real-world examples</strong></p>
+            <h4><strong> From basics to advanced deployments with real-world examples</strong></h4>
         </td>
     </tr>
     <tr>
@@ -168,7 +168,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </td>
         <td>
             <h3><a href="https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook">GitHub API Demystified: A Developer's Handbook</a></h3>
-            <p><strong> Automation, Integration, and Efficiency</strong></p>
+            <h4><strong> Automation, Integration, and Efficiency</strong></h4>
         </td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </td>
         <td>
             <h3><a href="https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit">Looking Back: 1 year of NSCC BPIT</a></h3>
-            <p><strong> A journey of passion and learning</strong></p>
+            <h4><strong> A journey of passion and learning</strong></h4>
         </td>
     </tr>
 </table>
