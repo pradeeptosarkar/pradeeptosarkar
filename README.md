@@ -172,7 +172,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </td>
     </tr>
     <tr>
-        <td style="width:250px; height:300px; vertical-align: center;">
+        <td style="width:250px; height:500px; vertical-align: center;">
             <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
