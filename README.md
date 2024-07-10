@@ -7,16 +7,19 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pradeeptosarkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150px"/>
   </a>
   <a href="https://leetcode.com/pradeeptosarkar/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" width="150px"/>
   </a>
   <a href="https://www.codechef.com/users/pradeepto">
-    <img src="https://img.shields.io/badge/CodeChef-purple?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+    <img src="https://img.shields.io/badge/CodeChef-purple?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" width="150px"/>
+  </a>
+  <a href="https://codeforces.com/profile/pradeeptosarkar19">
+    <img src="https://img.shields.io/badge/Codeforces-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces Badge" width="150px"/>
   </a>
   <a href="mailto:pradeeptosarkarmail@gmail.com">
-    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="150px"/>
   </a>
 </div>
 
@@ -133,7 +136,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :black_nib: My Blog posts :
+### :black_nib: My Blog Posts :
 
 <table>
     <tr>
