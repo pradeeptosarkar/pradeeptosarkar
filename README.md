@@ -1,4 +1,3 @@
-![react-native-1](https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b4304cae-74bd-4a92-96f2-fb1ebef3400f)<p align ="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="1000px"/><br>
 <img src="https://github-profile-trophy.vercel.app/?username=pradeeptosarkar&theme=nord&column=-1" height="100"/>
 </p>
