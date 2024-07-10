@@ -129,7 +129,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - **Description**: From basics to advanced deployments with real-world examples
  
 - [GitHub API Demystified: A Developer's Handbook](https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook)
-  - <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695365018906/70b5aefe-1177-4c19-bba7-5e85dca78808.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height=100px" />
+  - <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695365018906/70b5aefe-1177-4c19-bba7-5e85dca78808.webp" height=100px" />
   - **Description**: Automation, Integration, and Efficiency
   
 - [Looking Back: 1 year of NSCC BPIT](https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit)
