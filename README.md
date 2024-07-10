@@ -136,8 +136,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### My Blog posts
 
 <table>
-    <tr style="height: 400px">
-        <td style="width:250px; vertical-align: center;">
+    <tr>
+        <td style="width:250px; height:150px; vertical-align: center;">
             <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719124434477/790da33c-dbd0-4f0b-a9a2-88424b1387d2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
@@ -145,8 +145,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
             <p><strong> Breaking Boundaries with Node.js: Crafting a Custom Compiler with Advanced Optimization Techniques and Expanded Functionality</strong></p>
         </td>
     </tr>
-    <tr style="height: 400px">
-        <td style="width:250px; height=250px; vertical-align: center;">
+    <tr>
+        <td style="width:250px; height:150px; vertical-align: center;">
             <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716101251452/1f430c58-34c4-4a1f-9695-b4017957d75b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
@@ -154,8 +154,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
             <p><strong> From basics to advanced deployments with real-world examples</strong></p>
         </td>
     </tr>
-    <tr style="height: 400px">
-        <td style="width:250px; height=250px; vertical-align: center;">
+    <tr>
+        <td style="width:250px; height:150px; vertical-align: center;">
             <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b0ea9195-2bbe-47a5-a6f1-1462f6923b5f" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
@@ -163,8 +163,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
             <p><strong> Automation, Integration, and Efficiency</strong></p>
         </td>
     </tr>
-    <tr style="height: 400px">
-        <td style="width:250px; height=250px; vertical-align: center;">
+    <tr>
+        <td style="width:250px; height:150px; vertical-align: center;">
             <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" width="200px" style="margin-right: 20px;" />
         </td>
         <td>
