@@ -1,4 +1,4 @@
-<p align ="center">
+![react-native-1](https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b4304cae-74bd-4a92-96f2-fb1ebef3400f)<p align ="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="1000px"/><br>
 <img src="https://github-profile-trophy.vercel.app/?username=pradeeptosarkar&theme=nord&column=-1" height="100"/>
 </p>
@@ -75,6 +75,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="appwrite" alt="appwrite" width="40" height="40"/>&nbsp;
+
+  <h2>Cross-Platform App Development</h2>
+  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/72fe1e24-4fda-490c-b0c2-76a82e018e58" title="React Native" alt="React Native" width="40" 
+  height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron JS" alt="Electron JS" 
+  width="40" height="40"/>&nbsp;
 
   <h2>DevOps & Tools</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
