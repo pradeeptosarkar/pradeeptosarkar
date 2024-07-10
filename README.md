@@ -4,35 +4,41 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="1000px"/><br>
 <img src="https://github-profile-trophy.vercel.app/?username=pradeeptosarkar&theme=nord&column=-1" height="100"/>
 </p>
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pradeeptosarkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150px" height="40px"/>
   </a>
   <a href="https://leetcode.com/pradeeptosarkar/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" width="150px"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" width="150px" height="40px"/>
   </a>
   <a href="https://www.codechef.com/users/pradeepto">
-    <img src="https://img.shields.io/badge/CodeChef-purple?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" width="150px"/>
+    <img src="https://img.shields.io/badge/CodeChef-purple?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" width="150px" height="40px"/>
   </a>
   <a href="https://codeforces.com/profile/pradeeptosarkar19">
-    <img src="https://img.shields.io/badge/Codeforces-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces Badge" width="150px"/>
+    <img src="https://img.shields.io/badge/Codeforces-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces Badge" width="150px"  height="40px"/>
   </a>
   <a href="mailto:pradeeptosarkarmail@gmail.com">
-    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="150px"/>
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="150px" height="40px"/>
   </a>
 </div>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pradeeptosarkar&color=red" alt="Profile Counter"/>
 </div>
+
+---
+
+<br>
+<br>
 
 <h1 align="center">
   Hello There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
 
 ### :woman_technologist: About Me :
 
