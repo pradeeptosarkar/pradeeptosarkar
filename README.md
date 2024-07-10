@@ -134,7 +134,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <table>
     <tr>
-        <td style="width: 100px; vertical-align: top;">
+        <td style="width: 200px; vertical-align: top;">
             <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719124434477/790da33c-dbd0-4f0b-a9a2-88424b1387d2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="100px" style="margin-right: 20px;" />
         </td>
         <td>
@@ -143,7 +143,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </td>
     </tr>
     <tr>
-        <td style="width: 100px; vertical-align: top;">
+        <td style="width: 200px; vertical-align: top;">
             <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716101251452/1f430c58-34c4-4a1f-9695-b4017957d75b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="100px" style="margin-right: 20px;" />
         </td>
         <td>
@@ -152,7 +152,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </td>
     </tr>
     <tr>
-        <td style="width: 100px; vertical-align: top;">
+        <td style="width: 200px; vertical-align: top;">
             <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b0ea9195-2bbe-47a5-a6f1-1462f6923b5f" height="100px" style="margin-right: 20px;" />
         </td>
         <td>
@@ -161,7 +161,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </td>
     </tr>
     <tr>
-        <td style="width: 100px; vertical-align: top;">
+        <td style="width: 200px; vertical-align: top;">
             <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" height="100px" style="margin-right: 20px;" />
         </td>
         <td>
