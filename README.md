@@ -1,4 +1,4 @@
-## Run ```npx pradeeptosarkar-npm``` in your terminal
+## Run ```npx pradeeptosarkar-npm``` in your terminall
 ---
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeeptosarkar&theme=ayu_mirage" width="1000px"/><br>
