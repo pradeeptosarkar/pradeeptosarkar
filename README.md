@@ -132,7 +132,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pradeeptosarkar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=onedark" title="GitHub Stats" alt="GitHub Stats" height="500" width="700"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=pradeeptosarkar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" height="500" width="700"/><br>
 <img src="https://stats.quine.sh/pradeeptosarkar/github?theme=dark" width="350">
 <img src="https://stats.quine.sh/pradeeptosarkar/dependencies?theme=dark" width="350"><br>
 <img src="https://stats.quine.sh/pradeeptosarkar/topics-over-time?theme=dark" width="350">
